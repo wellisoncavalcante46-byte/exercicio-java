@@ -31,7 +31,7 @@ antecessor e seu sucessor.
 Lê três valores (A, B, C) e calcula a soma de A e B. Em seguida, informa se a soma é menor que C.
 
 7. Par ou Ímpar, Positivo ou Negativo
-Recebe um número e verifica se ele é par ou ímpar e, também, se é positivo ou negativo.
+Recebe um número inteiro e verifica se ele é par ou ímpar e se é positivo ou negativo.
 
 8. Operações Condicionais
 Lê dois valores inteiros (A e B). Se forem iguais, soma os dois. Caso contrário, multiplica A por B. O resultado é armazenado em uma variável C e exibido na tela.
